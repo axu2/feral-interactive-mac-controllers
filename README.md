@@ -1,7 +1,7 @@
 # feral-interactive-controllers
 Updated controller configuration files for Feral Interactive Mac games like Tomb Raider, Life is Strange.
 
-This repo contains pre-made configuration files. For new controllers or firmwares that change a controller's product ID, follow the guide below:
+This repo contains pre-made configuration files. For new controllers or firmwares that change a controller's product ID, follow the guide below. It doesn't hurt to have multiple files, since the same controller might need a different file depending on the firmware.
 
 ## Adding a new configuration
 
