@@ -23,10 +23,12 @@ Then you need to edit the game's `XboxOneControllerSBluetoothv3.plist` file.
 
 I changed the ProductID to to make it work. Also change ButtonBack to make the select button work. This also works on Series.
 
+```
 <key>ProductID</key>
 <integer>2848</integer>
 <key>ButtonBack</key>
 <string>9:11</string>
+```
 
 ## Finding configuration file location
 
