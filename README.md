@@ -5,7 +5,7 @@ This repo contains pre-made configuration files. For new controllers or firmware
 
 ## Adding a new configuration
 
-Previously my Xbox One controller would only work wired. For official support email support@feralinteractive.com
+Previously my Xbox One controller would only work wired. And people report their select button doesn't work. For official support email support@feralinteractive.com
 
 First, if your Xbox controller isn't detected by Mac at all via Bluetooth, you need to update the controller firmware via an Xbox or the Windows Xbox Accessories app.
 
