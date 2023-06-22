@@ -1,13 +1,13 @@
 # feral-interactive-controllers
-Updated controller files for Tomb Raider, Life is Strange, and other Feral Interactive Mac games.
+Fixes bluetooth controller support for Tomb Raider, Life is Strange, and other Feral Interactive Mac games due to recent controller firmware updates.
 
-This repo contains pre-made configuration files. For new controllers or firmwares that change a controller's product ID, follow the guide below. It doesn't hurt to have multiple files, since the same controller might need a different file depending on the firmware. I wish Microsoft didn't break things after firmware updates for their controllers.
+This repo contains pre-made configuration files. For new controllers or firmwares, follow the guide below. Feel free to PR any other new controllers. It doesn't hurt to have multiple files, since the same controller might need a different file depending on the firmware. 
 
 ## Adding a new configuration
 
-Previously my Xbox One controller would only work wired. And people report their select button doesn't work. For official support email support@feralinteractive.com
-
 First, if your Xbox controller isn't detected by Mac at all via Bluetooth, you need to update the controller firmware via an Xbox or the Windows Xbox Accessories app.
+
+My Xbox One controller only worked wired. After fixing that, the select button still didn't work. 
 
 Generate a System Report in Tomb Raider launcher to find out your controller's Product ID. Mine looked like:
 ```
@@ -58,3 +58,5 @@ Launch game.
 
 You should now be able to use the controller in the game. Please let us know if this helps. 
 ```
+
+For official support email support@feralinteractive.com
