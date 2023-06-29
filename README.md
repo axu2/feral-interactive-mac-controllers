@@ -1,5 +1,5 @@
 # feral-interactive-controllers
-Fixes Xbox controller support for Tomb Raider, Life is Strange, and other Feral Interactive Mac games due to recent controller firmware updates.
+Fixes Xbox controller support for Tomb Raider, Life is Strange, Bioshock, and other Feral Interactive Mac games due to recent controller firmware updates.
 
 This repo contains pre-made configuration files. For new controllers or firmwares, follow the guide below. Feel free to PR any other new controllers. It doesn't hurt to have multiple files, since the same controller might need a different file depending on the firmware. 
 
