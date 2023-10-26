@@ -32,7 +32,7 @@ If your Xbox controller isn't detected by Mac at all via Bluetooth, you need to 
 > 
 > * Open the Steam Client.
 > 
-> *Click 'Steam' in the top menu bar (next to the Apple logo in the top left of your Mac's screen).
+> * Click 'Steam' in the top menu bar (next to the Apple logo in the top left of your Mac's screen).
 > 
 > * In the dropdown that appears, click 'Preferences'.
 > 
