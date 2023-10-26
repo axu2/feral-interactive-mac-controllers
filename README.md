@@ -79,3 +79,5 @@ I changed the ProductID to to make it work. Also change ButtonBack to make the s
 ## Official Support
 
 For official support email support@feralinteractive.com
+
+If this helped feel free to buy me a coffee! https://www.buymeacoffee.com/axu2
