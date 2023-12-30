@@ -79,13 +79,14 @@ I changed the ProductID to to make it work. Also change ButtonBack to make the s
 * Tomb Raider (2013)
 * Rise of the Tomb Raider
 * Shadow of the Tomb Raider
-* Life is Strange
 * Life is Strange 2
-* Sleeping Dogs
-* Bioshock Remastered
-* Bioshock 2 Remastered
 
 Feel free to open a PR adding to the list of supported games! All feral ports should work but adding to the list makes search engine optimization easier.
+
+## Known Games with Issues
+* Sleeping Dogs
+
+Force Steam Input for this game instead of adding a plist.
 
 ## Official Support
 
