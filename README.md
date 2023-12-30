@@ -5,6 +5,20 @@ This repo contains pre-made configuration files. For new controllers or firmware
 
 If your Xbox controller isn't detected by Mac at all via Bluetooth, you need to update the controller firmware via an Xbox or the Windows Xbox Accessories app.
 
+
+## Known Supported Games
+* Tomb Raider (2013)
+* Rise of the Tomb Raider
+* Shadow of the Tomb Raider
+* Life is Strange 2
+
+Feel free to open a PR adding to the list of supported games! All feral ports should work but adding to the list makes search engine optimization easier.
+
+## Known Games with Issues
+* Sleeping Dogs
+
+Force Steam Input for this game instead of adding a plist.
+
 ## Support Email Text (plist file attachment in repo)
 
 The Xbox One controller was not available at the time of development of our Mac version of the game, so I have attached a file to this email that will add support for it. Please first download this file and carry out the following steps:
@@ -74,19 +88,6 @@ I changed the ProductID to to make it work. Also change ButtonBack to make the s
 <key>ButtonBack</key>
 <string>9:11</string>
 ```
-
-## Known Supported Games
-* Tomb Raider (2013)
-* Rise of the Tomb Raider
-* Shadow of the Tomb Raider
-* Life is Strange 2
-
-Feel free to open a PR adding to the list of supported games! All feral ports should work but adding to the list makes search engine optimization easier.
-
-## Known Games with Issues
-* Sleeping Dogs
-
-Force Steam Input for this game instead of adding a plist.
 
 ## Official Support
 
