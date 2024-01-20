@@ -12,6 +12,7 @@ If your Xbox controller isn't detected by Mac at all via Bluetooth, you need to 
 * Shadow of the Tomb Raider
 * Life is Strange 2
 * Bioshock Remastered
+* Bioshock 2 Remastered
 
 Feel free to open a PR adding to the list of supported games! All feral ports should work but adding to the list makes search engine optimization easier.
 
