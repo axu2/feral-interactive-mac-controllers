@@ -85,7 +85,9 @@ I changed the ProductID to to make it work. Also change ButtonBack to make the s
 
 ### Update
 
-Change the CGPDeviceType to/from `Xbox` or `Standard` if you have left stick drift issues.
+I also changed the string for the **CGPDeviceType** key to **Standard** instead of **Xbox** to stop the left stick drifting in Sleeping Dogs and GRID Autosport.
+
+This also appears to be compatible with the other games tested.
 
 ```
 <key>CGPDeviceType</key>
