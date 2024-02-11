@@ -85,7 +85,7 @@ I changed the ProductID to to make it work. Also change ButtonBack to make the s
 
 ### Update
 
-Change the CGPDeviceType if you have left stick drift issues.
+Change the CGPDeviceType to/from `Xbox` or `Standard` if you have left stick drift issues.
 
 ```
 <key>CGPDeviceType</key>
