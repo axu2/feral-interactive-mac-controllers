@@ -6,20 +6,19 @@ This repo contains pre-made configuration files. For new controllers or firmware
 If your Xbox controller isn't detected by Mac at all via Bluetooth, you need to update the controller firmware via an Xbox or the Windows Xbox Accessories app.
 
 
-## Known Supported Games
+## Supported Games
 * Tomb Raider (2013)
 * Rise of the Tomb Raider
 * Shadow of the Tomb Raider
+* Life is Strange
 * Life is Strange 2
 * Bioshock Remastered
 * Bioshock 2 Remastered
+* Sleeping Dogs
+* GRID Autosport
+* Deus Ex: Mankind Divided
 
 Feel free to open a PR adding to the list of supported games! All feral ports should work but adding to the list makes search engine optimization easier.
-
-## Known Games with Issues
-* Sleeping Dogs
-
-Force Steam Input for this game instead of adding a plist.
 
 ## Support Email Text (plist file attachment in repo)
 
