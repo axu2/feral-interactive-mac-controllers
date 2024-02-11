@@ -5,7 +5,7 @@
 	<key>CGPDeviceCategory</key>
 	<string>GamePad</string>
 	<key>CGPDeviceType</key>
-	<string>Xbox</string>
+	<string>Standard</string>
 	<key>CGPDeviceImageType</key>
 	<string>Xbox</string>
 	<key>CGPDisplayNameOvr</key>
