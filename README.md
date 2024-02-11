@@ -6,7 +6,7 @@ This repo contains pre-made configuration files. For new controllers or firmware
 If your Xbox controller isn't detected by Mac at all via Bluetooth, you need to update the controller firmware via an Xbox or the Windows Xbox Accessories app.
 
 
-## Known Supported Games
+## Supported Games
 * Tomb Raider (2013)
 * Rise of the Tomb Raider
 * Shadow of the Tomb Raider
@@ -16,10 +16,19 @@ If your Xbox controller isn't detected by Mac at all via Bluetooth, you need to 
 
 Feel free to open a PR adding to the list of supported games! All feral ports should work but adding to the list makes search engine optimization easier.
 
-## Known Games with Issues
+## Games with Known Issues
 * Sleeping Dogs
+* GRID Autosport
 
-Force Steam Input for this game instead of adding a plist.
+Change the string for the **CGPDeviceType** key to **Standard** instead of **Xbox** to stop the left stick drifting.
+
+```
+<key>CGPDeviceType</key>
+<string>Standard</string>
+```
+
+This has only been tested with the games above and only with an Xbox One S Bluetooth controller.
+
 
 ## Support Email Text (plist file attachment in repo)
 
