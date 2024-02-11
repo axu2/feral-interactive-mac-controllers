@@ -10,25 +10,14 @@ If your Xbox controller isn't detected by Mac at all via Bluetooth, you need to 
 * Tomb Raider (2013)
 * Rise of the Tomb Raider
 * Shadow of the Tomb Raider
+* Life is Strange
 * Life is Strange 2
 * Bioshock Remastered
 * Bioshock 2 Remastered
-
-Feel free to open a PR adding to the list of supported games! All feral ports should work but adding to the list makes search engine optimization easier.
-
-## Games with Known Issues
 * Sleeping Dogs
 * GRID Autosport
 
-Change the string for the **CGPDeviceType** key to **Standard** instead of **Xbox** to stop the left stick drifting.
-
-```
-<key>CGPDeviceType</key>
-<string>Standard</string>
-```
-
-This has only been tested with the games above and only with an Xbox One S Bluetooth controller.
-
+Feel free to open a PR adding to the list of supported games! All feral ports should work but adding to the list makes search engine optimization easier.
 
 ## Support Email Text (plist file attachment in repo)
 

@@ -4,10 +4,8 @@
 	<dict>
 		<key>CGPDeviceCategory</key>
 		<string>GamePad</string>
-		<!-- Use Standard instead of Xbox if the left stick drifts -->
 		<key>CGPDeviceType</key>
-		<string>Xbox</string>
-		<!-- <string>Standard</string> -->
+		<string>Standard</string>
 		<key>CGPDeviceImageType</key>
 		<string>Xbox</string>
 		<key>CGPDisplayNameOvr</key>
@@ -90,7 +88,6 @@
 		<string>9:8</string>
 		<key>ButtonBack</key>
 		<string>9:11</string>
-		<!-- <string>12:548</string> -->
 		<key>ButtonStart</key>
 		<string>9:12</string>
 		<key>LeftThumb</key>
