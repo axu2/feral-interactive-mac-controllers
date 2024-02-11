@@ -65,7 +65,7 @@ If you are using a Steam version of the game, we also recommend that you follow 
 
 You should now be able to use the controller in the game. Please let us know if this helps. 
 
-## If it still doesn't work due to a new controller firmware...
+## If it still doesn't work
 
 Previously, my Xbox One controller only worked wired. After fixing the bluetooth issue, the select button still didn't work. 
 
@@ -83,7 +83,13 @@ Then you need to edit the game's `XboxOneControllerSBluetoothv3.plist` file.
 
 I changed the ProductID to to make it work. Also change ButtonBack to make the select button work. This also works on Series.
 
+### Update
+
+Change the CGPDeviceType if you have left stick drift issues.
+
 ```
+<key>CGPDeviceType</key>
+<string>Standard</string>
 <key>ProductID</key>
 <integer>2848</integer>
 <key>ButtonBack</key>
