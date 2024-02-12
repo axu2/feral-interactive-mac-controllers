@@ -1,3 +1,7 @@
+## Update 2024-02-11
+
+Xbox controller plists have been updated to fix stick drift issues in Sleeping Dogs, GRID Autosport, etc. 
+
 # feral-interactive-controllers
 Fixes Xbox/PS controller support for Tomb Raider, Life is Strange, Bioshock, Sleeping Dogs, and other Feral Interactive Mac games due to recent controller firmware updates.
 
