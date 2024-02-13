@@ -68,6 +68,12 @@ If you are using a Steam version of the game, we also recommend that you follow 
 
 You should now be able to use the controller in the game. Please let us know if this helps. 
 
+## Donate
+
+If this repo helps, feel free to donate!
+
+[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=QFJVE7A6LCP6U&no_recurring=0&item_name=Feral+Interactive+Mac+Controllers&currency_code=USD)
+
 ## If it still doesn't work
 
 Previously, my Xbox One controller only worked wired. After fixing the bluetooth issue, the select button still didn't work. 
@@ -86,8 +92,6 @@ Then you need to edit the game's `XboxOneControllerSBluetoothv3.plist` file.
 
 I changed the ProductID to to make it work. Also change ButtonBack to make the select button work. This also works on Series.
 
-### Update
-
 I also changed the string for the **CGPDeviceType** key to **Standard** instead of **Xbox** to stop the left stick drifting in Sleeping Dogs and GRID Autosport.
 
 This also appears to be compatible with the other games tested.
@@ -100,12 +104,6 @@ This also appears to be compatible with the other games tested.
 <key>ButtonBack</key>
 <string>9:11</string>
 ```
-
-## Donate
-
-If this repo helps, feel free to donate!
-
-[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=QFJVE7A6LCP6U&no_recurring=0&item_name=Feral+Interactive+Mac+Controllers&currency_code=USD)
 
 ## Official Support
 
