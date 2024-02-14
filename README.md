@@ -104,7 +104,3 @@ This also appears to be compatible with the other games tested.
 <key>ButtonBack</key>
 <string>9:11</string>
 ```
-
-## Official Support
-
-For official support email support@feralinteractive.com
