@@ -118,3 +118,5 @@ This also appears to be compatible with the other games tested.
 <key>ButtonBack</key>
 <string>9:11</string>
 ```
+
+If you still can't get it to work modify `XboxOneController.plist` with your controller's ProductID and just use the controller wired. This seems to be neccessary in some games with the Series Elite 2 controller.
