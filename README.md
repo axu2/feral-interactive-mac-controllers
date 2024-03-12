@@ -8,11 +8,20 @@ If they cause issues in other games please open an issue and try the
 
 
 # feral-interactive-controllers
-Fixes Xbox/PS5 controller support for Tomb Raider, Life is Strange, Bioshock, Sleeping Dogs, and other Feral Interactive Mac games due to recent controller firmware updates.
+Fixes Xbox controller support for Tomb Raider, Life is Strange, Bioshock, Sleeping Dogs, and other Feral Interactive Mac games due to recent controller firmware updates. You can view your controller's firmware version in `System Report`. This repo is only tested on the following firmware version, earlier ones may cause issues like crashes or connectivity issues.
+
+```
+Xbox Wireless Controller:
+Vendor ID: 0x045E              
+Product ID: 0x0B20
+Firmware Version: 5.17.3202.0
+```
 
 This repo contains pre-made configuration files. For new controllers or firmwares, follow the guide below. Feel free to PR any other new controllers. It doesn't hurt to have multiple files, since the same controller might need a different file depending on the firmware. 
 
-If your Xbox controller isn't detected by Mac at all via Bluetooth, you need to update the controller firmware via an Xbox or the Windows Xbox Accessories app.
+If your Xbox controller isn't detected by Mac at all via Bluetooth, you need to update the controller firmware via an Xbox or the Windows Xbox Accessories app. 
+
+If you don't have access to either, you can update the controller firmware via a Windows VM https://www.vmware.com/products/fusion.html
 
 ## Supported Games
 * Tomb Raider (2013)
