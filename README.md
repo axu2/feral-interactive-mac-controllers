@@ -34,6 +34,7 @@ If you don't have access to either, you can update the controller firmware via a
 * Sleeping Dogs
 * GRID Autosport
 * Deus Ex: Mankind Divided
+* Batman: Arkham City GOTY
 
 Feel free to open a PR adding to the list of supported games! All feral ports should work but adding to the list makes search engine optimization easier.
 
