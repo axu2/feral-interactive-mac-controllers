@@ -121,3 +121,5 @@ This also appears to be compatible with the other games tested.
 ```
 
 If you still can't get it to work modify `XboxOneController.plist` with your controller's ProductID and just use the controller wired. This seems to be neccessary in some games with the Series Elite 2 controller.
+
+You may need to disable steam input.
