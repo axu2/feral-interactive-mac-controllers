@@ -1,3 +1,7 @@
+# feral-interactive-controllers
+
+These files are different than the ones provided by `support@feralinteractive.com`. They fix a typo in the Option button. And have updated ProductIDs for newer controller firmwares.
+
 #### Update 2024-02-11
 
 Xbox controller plists have been updated to fix dpad/camera spinning issues in Sleeping Dogs, GRID Autosport, etc. 
@@ -5,9 +9,9 @@ Xbox controller plists have been updated to fix dpad/camera spinning issues in S
 If they cause issues in other games please open an issue and try the 
 [old versions of the files](https://github.com/axu2/feral-interactive-mac-controllers/tree/00bbe01c3b432c76e9e4e8659f898449588e88a0).
 
+## Summary
 
 
-# feral-interactive-controllers
 Fixes Xbox controller support for Tomb Raider, Life is Strange, Bioshock, Sleeping Dogs, and other Feral Interactive Mac games due to recent controller firmware updates. You can view your controller's firmware version in `System Report`. This repo is only tested on the following firmware version, earlier ones may cause issues like crashes or connectivity issues.
 
 ```
