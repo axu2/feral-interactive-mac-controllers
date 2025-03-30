@@ -2,6 +2,8 @@
 
 These files are different than the ones provided by `support@feralinteractive.com`. They fix a typo in the Option button. And have updated ProductIDs for newer controller firmwares.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q41BW8HS)
+
 #### Update 2024-02-11
 
 Xbox controller plists have been updated to fix dpad/camera spinning issues in Sleeping Dogs, GRID Autosport, etc. 
@@ -91,7 +93,7 @@ You should now be able to use the controller in the game. Please let us know if 
 
 If this repo helps, feel free to donate!
 
-[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=QFJVE7A6LCP6U&no_recurring=0&item_name=Feral+Interactive+Mac+Controllers&currency_code=USD)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q41BW8HS)
 
 ## If it still doesn't work
 
