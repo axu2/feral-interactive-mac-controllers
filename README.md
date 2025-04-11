@@ -4,12 +4,16 @@ These files are different than the ones provided by `support@feralinteractive.co
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q41BW8HS)
 
+You can download the plists from the GitHub releases tab: https://github.com/axu2/feral-interactive-mac-controllers/releases
+
 #### Update 2024-02-11
 
 Xbox controller plists have been updated to fix dpad/camera spinning issues in Sleeping Dogs, GRID Autosport, etc. 
 
 If they cause issues in other games please open an issue and try the 
 [old versions of the files](https://github.com/axu2/feral-interactive-mac-controllers/tree/00bbe01c3b432c76e9e4e8659f898449588e88a0).
+
+
 
 ## Summary
 
