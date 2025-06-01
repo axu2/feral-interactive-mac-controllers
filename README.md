@@ -1,4 +1,5 @@
 # feral-interactive-controllers
+[![Github All Releases](https://img.shields.io/github/downloads/axu2/feral-interactive-mac-controllers/total.svg)]()
 
 These files are different than the ones provided by `support@feralinteractive.com`. They fix a typo in the Option button. And have updated ProductIDs for newer controller firmwares.
 
