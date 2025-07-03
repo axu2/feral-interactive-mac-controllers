@@ -18,6 +18,8 @@ If they cause issues in other games please open an issue and try the
 
 ## Summary
 
+DISABLE STEAM INPUT FOR STEAM GAMES
+
 
 Fixes Xbox controller support for Tomb Raider, Life is Strange, Bioshock, Sleeping Dogs, and other Feral Interactive Mac games due to recent controller firmware updates. You can view your controller's firmware version in `System Report`. This repo is only tested on the following firmware version, earlier ones may cause issues like crashes or connectivity issues.
 
