@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>DeviceName</key>
+    <string>Stadia Gamepad</string>
+
+    <key>VendorID</key>
+    <integer>6353</integer> <!-- 0x18D1 for Google -->
+
+    <key>ProductID</key>
+    <integer>37888</integer> <!-- 0x9400 -->
+
+    <key>CGPDeviceType</key>
+    <string>Standard</string>
+
+    <key>ButtonA</key>
+    <string>Button1</string>
+    <key>ButtonB</key>
+    <string>Button2</string>
+    <key>ButtonX</key>
+    <string>Button3</string>
+    <key>ButtonY</key>
+    <string>Button4</string>
+
+    <key>LeftShoulder</key>
+    <string>Button5</string>
+    <key>RightShoulder</key>
+    <string>Button6</string>
+
+    <key>LeftTrigger</key>
+    <string>Axis5-</string>
+    <key>RightTrigger</key>
+    <string>Axis5+</string>
+
+    <key>Start</key>
+    <string>Button9</string>
+    <key>Select</key>
+    <string>Button10</string>
+
+    <key>DPadUp</key>
+    <string>Hat0Up</string>
+    <key>DPadDown</key>
+    <string>Hat0Down</string>
+    <key>DPadLeft</key>
+    <string>Hat0Left</string>
+    <key>DPadRight</key>
+    <string>Hat0Right</string>
+
+    <key>LeftStickX</key>
+    <string>Axis0</string>
+    <key>LeftStickY</key>
+    <string>Axis1</string>
+    <key>RightStickX</key>
+    <string>Axis2</string>
+    <key>RightStickY</key>
+    <string>Axis3</string>
+</dict>
+</plist>
