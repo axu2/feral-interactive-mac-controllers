@@ -1,6 +1,8 @@
 # feral-interactive-controllers
 [![Github All Releases](https://img.shields.io/github/downloads/axu2/feral-interactive-mac-controllers/total.svg)]()
 
+If you are on macOS 14 or later, it may be easier to just use the "increase controller compatibility" option, especially if you have a more obscure controller. https://github.com/axu2/feral-interactive-mac-controllers/issues/7
+
 These files are different than the ones provided by `support@feralinteractive.com`. They fix a typo in the Option button. And have updated ProductIDs for newer controller firmwares.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q41BW8HS)
