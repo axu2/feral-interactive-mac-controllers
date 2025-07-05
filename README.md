@@ -5,6 +5,8 @@ If you are on macOS 14 or later, it may be easier to just use the "increase cont
 
 These files are different than the ones provided by `support@feralinteractive.com`. They fix a typo in the Option button. And have updated ProductIDs for newer controller firmwares.
 
+If this repo helps, feel free to donate!
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q41BW8HS)
 
 You can download the plists from the GitHub releases tab: https://github.com/axu2/feral-interactive-mac-controllers/releases
